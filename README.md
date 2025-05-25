@@ -1,4 +1,4 @@
-# Text-to-image-generation
+# Text to Image Generation
 
 The components of text-to-image generation: text encoders, a neural network, and an autoencoder. fine-tune models based on their own dataset and compares different popular models.
 ---
